@@ -1,0 +1,29 @@
+{
+  "project": "Team 6 - Milestone 2",
+  "dataset": "credit_risk_dataset.csv",
+  "target": "loan_status",
+  "timestamp": "2025-11-20 22:02:10",
+  "random_seed": 42,
+  "test_size": 0.2,
+  "n_samples": {
+    "total": 32416,
+    "train": 25932,
+    "test": 6484
+  },
+  "n_features": {
+    "original": 11,
+    "engineered": 11,
+    "post_preprocessing": 46
+  },
+  "best_model": {
+    "name": "Gradient Boosting",
+    "test_auc": 0.9513935097614173,
+    "test_accuracy": 0.9378470080197409,
+    "test_f1": 0.8395061728395061
+  },
+  "artifacts": {
+    "models": 17,
+    "data_files": 10,
+    "visualizations": 20
+  }
+}

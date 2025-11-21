@@ -1,0 +1,4 @@
+{
+  "estimator__C": 100,
+  "estimator__class_weight": "balanced"
+}

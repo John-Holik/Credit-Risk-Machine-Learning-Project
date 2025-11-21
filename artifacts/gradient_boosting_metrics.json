@@ -1,0 +1,11 @@
+{
+  "Model": "Gradient Boosting",
+  "Train Accuracy": 0.9573114298935678,
+  "Test Accuracy": 0.9378470080197409,
+  "Train AUC": 0.9874147576037141,
+  "Test AUC": 0.9513935097614173,
+  "Train Sensitivity": 0.9983218992152411,
+  "Test Sensitivity": 0.9923016186340308,
+  "Train Specificity": 0.8107917474872156,
+  "Test Specificity": 0.7433004231311706
+}

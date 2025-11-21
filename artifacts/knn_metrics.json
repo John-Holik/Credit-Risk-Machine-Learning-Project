@@ -1,0 +1,11 @@
+{
+  "Model": "K-Nearest Neighbors",
+  "Train Accuracy": 1.0,
+  "Test Accuracy": 0.8858729179518815,
+  "Train AUC": 1.0,
+  "Test AUC": 0.8947392305906186,
+  "Train Sensitivity": 1.0,
+  "Test Sensitivity": 0.9853928148440584,
+  "Train Specificity": 1.0,
+  "Test Specificity": 0.5303244005641748
+}

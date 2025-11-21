@@ -1,0 +1,11 @@
+{
+  "Model": "Linear Discriminant Analysis",
+  "Train Accuracy": 0.8736695974086072,
+  "Test Accuracy": 0.8727637260950031,
+  "Train AUC": 0.8849855097206112,
+  "Test AUC": 0.8831336095555591,
+  "Train Sensitivity": 0.9447707418192587,
+  "Test Sensitivity": 0.940979076194236,
+  "Train Specificity": 0.6196438017986245,
+  "Test Specificity": 0.6290550070521862
+}

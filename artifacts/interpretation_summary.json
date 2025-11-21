@@ -1,0 +1,27 @@
+{
+  "model": "Gradient Boosting",
+  "has_native_importance": true,
+  "n_features": 46,
+  "interpretation_methods": [
+    "permutation_importance",
+    "native_feature_importance",
+    "partial_dependence"
+  ],
+  "top_5_features_native": [
+    "num__income_to_loan",
+    "num__loan_int_rate",
+    "cat__person_home_ownership_RENT",
+    "num__dti_ratio",
+    "num__person_income"
+  ],
+  "n_features_for_80pct_importance": 9,
+  "n_features_for_90pct_importance": 14,
+  "top_5_features_permutation": [
+    "num__dti_ratio",
+    "num__loan_percent_income",
+    "num__income_to_loan",
+    "num__log_income",
+    "num__person_income"
+  ],
+  "n_pdp_plots": 6
+}

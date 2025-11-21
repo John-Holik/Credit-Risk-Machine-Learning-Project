@@ -1,0 +1,11 @@
+{
+  "Model": "DummyClassifier (Baseline)",
+  "Train Accuracy": 0.6556763843899429,
+  "Test Accuracy": 0.6542257865515114,
+  "Train AUC": 0.4961045823350715,
+  "Test AUC": 0.49256193423119476,
+  "Train Sensitivity": 0.7797245940476778,
+  "Test Sensitivity": 0.7799052506908803,
+  "Train Specificity": 0.21248457062246517,
+  "Test Specificity": 0.20521861777150915
+}

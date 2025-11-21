@@ -1,0 +1,11 @@
+{
+  "Model": "SVM (RBF)",
+  "Train Accuracy": 0.8874749344439303,
+  "Test Accuracy": 0.8763109191856878,
+  "Train AUC": 0.9325807339593025,
+  "Test AUC": 0.9085640768930513,
+  "Train Sensitivity": 0.914268792260994,
+  "Test Sensitivity": 0.9070272404263718,
+  "Train Specificity": 0.7917474872156586,
+  "Test Specificity": 0.7665726375176305
+}

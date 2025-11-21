@@ -1,0 +1,11 @@
+{
+  "Model": "Gaussian Naive Bayes",
+  "Train Accuracy": 0.8457118617923801,
+  "Test Accuracy": 0.8457742134484886,
+  "Train AUC": 0.8526366867240561,
+  "Test AUC": 0.8498213566813687,
+  "Train Sensitivity": 0.9302107497162035,
+  "Test Sensitivity": 0.9307145677062771,
+  "Train Specificity": 0.5438194321989067,
+  "Test Specificity": 0.5423131170662906
+}

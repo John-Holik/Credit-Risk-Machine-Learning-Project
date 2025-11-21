@@ -1,0 +1,11 @@
+{
+  "Model": "AdaBoost",
+  "Train Accuracy": 0.9125019281196977,
+  "Test Accuracy": 0.9147131400370142,
+  "Train AUC": 0.9283555734153167,
+  "Test AUC": 0.9220126488323105,
+  "Train Sensitivity": 0.9742362173634075,
+  "Test Sensitivity": 0.9751283063560995,
+  "Train Specificity": 0.6919414565332392,
+  "Test Specificity": 0.6988716502115656
+}

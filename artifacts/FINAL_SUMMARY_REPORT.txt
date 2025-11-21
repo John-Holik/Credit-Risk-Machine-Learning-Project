@@ -1,0 +1,93 @@
+
+================================================================================
+TEAM 6 - MILESTONE 2 - FINAL SUMMARY REPORT
+================================================================================
+
+PROJECT INFORMATION
+-------------------
+Dataset: credit_risk_dataset.csv
+Target: loan_status (binary classification: 0=No Default, 1=Default)
+Team Members: John Holik, Claiton Pinto, Marina Bunyatova
+Timestamp: 2025-11-20 22:02:12
+
+DATA SUMMARY
+------------
+Total Samples: 32,416
+  - Training Set: 25,932 (80%)
+  - Test Set: 6,484 (20%)
+
+Class Distribution (Test Set):
+  - Class 0 (No Default): 5,066 (78.13%)
+  - Class 1 (Default): 1,418 (21.87%)
+
+FEATURE ENGINEERING
+-------------------
+Original Features: 11
+Engineered Features: 11
+Total Features (after preprocessing): 46
+
+MODELS EVALUATED
+----------------
+14 models trained and evaluated:
+  1. DummyClassifier (Baseline)
+  2. Logistic Regression
+  3. Linear Discriminant Analysis
+  4. Quadratic Discriminant Analysis
+  5. Gaussian Naive Bayes
+  6. K-Nearest Neighbors
+  7. Decision Tree
+  8. Bagging
+  9. Random Forest
+  10. AdaBoost
+  11. Gradient Boosting
+  12. SVM (Linear)
+  13. SVM (RBF)
+  14. Neural Network (MLP)
+
+BEST MODEL SELECTION
+--------------------
+Selected Model: Gradient Boosting
+Selection Criterion: Test AUC (ROC-AUC Score)
+
+FINAL TEST PERFORMANCE
+----------------------
+ROC AUC: 0.9514
+PR AUC (Average Precision): 0.9118
+Accuracy: 0.9378
+Balanced Accuracy: 0.8678
+F1 Score: 0.8395
+Brier Score: 0.0499
+
+Sensitivity (Class 0): 0.9923
+Specificity (Class 1): 0.7433
+
+Confusion Matrix:
+                 Predicted: No Default  Predicted: Default
+Actual: No Default        5027                39
+Actual: Default            364              1054
+
+ARTIFACTS GENERATED
+-------------------
+Models: 17 saved models
+Data Files: 10 CSV/JSON files
+Visualizations: 20 plots
+
+All artifacts saved to:
+  - models/ (trained models and preprocessors)
+  - artifacts/ (metrics, summaries, analysis outputs)
+  - Output/ (EDA and model evaluation plots)
+
+REPRODUCIBILITY
+---------------
+Random Seed: 42
+Python Version: 3.10.19
+Key Libraries:
+  - NumPy: 2.2.5
+  - Pandas: 2.3.3
+  - Scikit-learn: 1.7.1
+  - Matplotlib: 3.10.6
+  - Seaborn: 0.13.2
+
+================================================================================
+END OF REPORT
+================================================================================

@@ -1,0 +1,11 @@
+{
+  "selected_model": "Gradient Boosting",
+  "selection_criteria": "Test AUC",
+  "test_auc": 0.9513935097614173,
+  "test_accuracy": 0.9378470080197409,
+  "test_sensitivity": 0.9923016186340308,
+  "test_specificity": 0.7433004231311706,
+  "overfitting_gap_auc": 0.036021247842296766,
+  "rank": 1,
+  "selection_timestamp": "2025-11-20 22:01:15"
+}

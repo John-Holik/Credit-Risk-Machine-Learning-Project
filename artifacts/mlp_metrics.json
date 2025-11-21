@@ -1,0 +1,11 @@
+{
+  "Model": "Neural Network (MLP)",
+  "Train Accuracy": 0.9330942464908222,
+  "Test Accuracy": 0.9250462677359654,
+  "Train AUC": 0.9409865859944058,
+  "Test AUC": 0.9147893086296153,
+  "Train Sensitivity": 0.9943734267805143,
+  "Test Sensitivity": 0.9885511251480458,
+  "Train Specificity": 0.7141597601833892,
+  "Test Specificity": 0.6981664315937941
+}

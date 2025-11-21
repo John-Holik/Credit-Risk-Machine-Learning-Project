@@ -1,0 +1,11 @@
+{
+  "Model": "Decision Tree",
+  "Train Accuracy": 0.9378759833410458,
+  "Test Accuracy": 0.9273596545342381,
+  "Train AUC": 0.9301917680146073,
+  "Test AUC": 0.9113347675284275,
+  "Train Sensitivity": 0.9919056315088101,
+  "Test Sensitivity": 0.98499802605606,
+  "Train Specificity": 0.7448421795097866,
+  "Test Specificity": 0.7214386459802539
+}

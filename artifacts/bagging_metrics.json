@@ -1,0 +1,11 @@
+{
+  "Model": "Bagging",
+  "Train Accuracy": 0.9998071880302329,
+  "Test Accuracy": 0.9347624922887107,
+  "Train AUC": 1.0,
+  "Test AUC": 0.9376233018931488,
+  "Train Sensitivity": 1.0,
+  "Test Sensitivity": 0.9921042242400315,
+  "Train Specificity": 0.9991183212837242,
+  "Test Specificity": 0.729901269393512
+}

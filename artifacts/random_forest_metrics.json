@@ -1,0 +1,11 @@
+{
+  "Model": "Random Forest",
+  "Train Accuracy": 0.9814514885084066,
+  "Test Accuracy": 0.9316779765576805,
+  "Train AUC": 0.9990681820893659,
+  "Test AUC": 0.9368974111544258,
+  "Train Sensitivity": 0.9957553921326687,
+  "Test Sensitivity": 0.9855902092380576,
+  "Train Specificity": 0.9303473814142127,
+  "Test Specificity": 0.7390691114245416
+}

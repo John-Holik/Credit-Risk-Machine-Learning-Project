@@ -1,0 +1,16 @@
+{
+  "Model": "Gradient Boosting",
+  "Test Set Size": 6484,
+  "Accuracy": 0.9378470080197409,
+  "Balanced Accuracy": 0.8678010208826007,
+  "F1 Score": 0.8395061728395061,
+  "ROC AUC": 0.9513935097614173,
+  "Average Precision (PR AUC)": 0.9117955073298013,
+  "Brier Score": 0.04993439457648799,
+  "Sensitivity (Class 0 Recall)": 0.9923016186340308,
+  "Specificity (Class 1 Recall)": 0.7433004231311706,
+  "True Negatives": 5027,
+  "False Positives": 39,
+  "False Negatives": 364,
+  "True Positives": 1054
+}

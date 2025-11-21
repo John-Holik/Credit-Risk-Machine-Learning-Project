@@ -1,0 +1,11 @@
+{
+  "Model": "SVM (Linear)",
+  "Train Accuracy": 0.8722813512262841,
+  "Test Accuracy": 0.8707587908698334,
+  "Train AUC": 0.892576562858749,
+  "Test AUC": 0.8901857957332743,
+  "Train Sensitivity": 0.9499037559844036,
+  "Test Sensitivity": 0.9474930911962101,
+  "Train Specificity": 0.5949567977429024,
+  "Test Specificity": 0.5966149506346967
+}

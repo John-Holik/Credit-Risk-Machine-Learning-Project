@@ -1,0 +1,11 @@
+{
+  "Model": "Logistic Regression",
+  "Train Accuracy": 0.8345287675458892,
+  "Test Accuracy": 0.8303516347933374,
+  "Train AUC": 0.8931208877385876,
+  "Test AUC": 0.89052935663905,
+  "Train Sensitivity": 0.843048220719609,
+  "Test Sensitivity": 0.8424792735886301,
+  "Train Specificity": 0.8040909892435196,
+  "Test Specificity": 0.7870239774330042
+}

@@ -1,0 +1,11 @@
+{
+  "Model": "Quadratic Discriminant Analysis",
+  "Train Accuracy": 0.8627950023137436,
+  "Test Accuracy": 0.8665946946329426,
+  "Train AUC": 0.8827443808571463,
+  "Test AUC": 0.8794893304014652,
+  "Train Sensitivity": 0.9027688662948522,
+  "Test Sensitivity": 0.9070272404263718,
+  "Train Specificity": 0.7199788397108093,
+  "Test Specificity": 0.7221438645980254
+}
